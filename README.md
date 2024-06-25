@@ -39,5 +39,5 @@ Syntax: pip install statsmodel
 • Xgboost
 Syntax: pip install xgboost
 
-Pytest
-• Pytest Syntax: pip install -U pytest
+• Pytest
+Syntax: pip install -U pytest
